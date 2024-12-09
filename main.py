@@ -1,4 +1,4 @@
-password = "spsm"
+password = "777spsmbranch"
 
 input_password = input("password :")
 
